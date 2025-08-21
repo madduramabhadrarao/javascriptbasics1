@@ -1,0 +1,8 @@
+{
+  "name": "simple-js-assignment",
+  "version": "1.0.0",
+  "description": "Simple JavaScript Assignment with Autograding",
+  "scripts": {
+    "test": "node test.js"
+  }
+}
